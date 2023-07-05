@@ -22,7 +22,7 @@ Your mission, should you choose to accept it, involves a daring heist of two mod
 1. `ValheimPlus WindowsClient-2323-0-9-9-16-1686594610.zip`
 2. `FarmGrid 0.5.0-449-0-5-0-1686742714.rar`
 
-Gather your courage (and your Wi-Fi connection) and [click here](https://github.com/your-link-here) to download the files.
+Gather your courage (and your Wi-Fi connection) and [click here](https://github.com/sultatog/valheim_mods) to download the files.
 
 ---
 
@@ -50,7 +50,7 @@ You are the rare breed, Steam Deck adventurers. Your path is unique, so we've so
 
 ## 🛡️ Troubleshooting 🛡️
 
-Fear not if you encounter wild beasts or errors on your journey! Send a raven to me (contact info here), and together we'll slay the trouble beast.
+Fear not if you encounter wild beasts or errors on your journey! Send a raven to me (https://t.me/sultatog), and together we'll slay the trouble beast.
 
 ---
 
