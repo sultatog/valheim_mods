@@ -36,7 +36,7 @@ Gather your courage (and your Wi-Fi connection) and [click here](https://github.
 2. Using your Viking strength, drag the contents of `ValheimPlus WindowsClient-2323-0-9-9-16-1686594610.zip` into the Valheim folder.
 3. You're almost there, warrior! Now, heave the contents of `FarmGrid 0.5.0-449-0-5-0-1686742714.rar` into Valheim\BepInEx\plugins.
 
-You did it! You've become a master of mods! 🎉
+You did it! You've become a master of mods! 🎉 Now is the time to configure the mod.
 
 ---
 
@@ -50,7 +50,7 @@ You are the rare breed, Steam Deck adventurers. Your path is unique, so we've so
 
 ### The Cherry on Top
 
-Hold up, we're not done yet! You've got the mods installed, but there's one more step to make it all come together. Download this config file right [here](https://github.com/sultatog/valheim_mods/blob/main/valheim_plus.cfg) and replace the old one in Valheim\BepInEx\config. Trust us, it's worth it.
+Hang tight, we're not done yet! Now you've got the mods installed, kickstart the game and then close it down. We're just making sure all the necessary files are in place. Done that? Cool, now download this config file right [here](https://github.com/sultatog/valheim_mods/blob/main/valheim_plus.cfg) and replace the old one in Valheim\BepInEx\config. Trust us, it's worth it.
 
 ---
 
