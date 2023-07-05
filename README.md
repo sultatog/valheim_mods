@@ -50,7 +50,7 @@ You are the rare breed, Steam Deck adventurers. Your path is unique, so we've so
 
 ### The Cherry on Top
 
-Hold up, we're not done yet! You've got the mods installed, but there's one more step to make it all come together. Download this config file right [here]([https://github.com/your-link-here](https://github.com/sultatog/valheim_mods/blob/main/valheim_plus.cfg)) and replace the old one in Valheim\BepInEx\config. Trust us, it's worth it.
+Hold up, we're not done yet! You've got the mods installed, but there's one more step to make it all come together. Download this config file right [here][https://github.com/sultatog/valheim_mods/blob/main/valheim_plus.cfg] and replace the old one in Valheim\BepInEx\config. Trust us, it's worth it.
 
 ---
 
