@@ -43,6 +43,8 @@ You did it! You've become a master of mods! 🎉 Now is the time to configure th
 
 ### For the Steam Deck Heroes:
 
+![image](https://github.com/sultatog/valheim_mods/assets/9052395/09375767-070f-4a2b-8832-0d4c6a097536)
+
 You are the rare breed, Steam Deck adventurers. Your path is unique, so we've sought guidance from a legendary seer. This YouTube video holds the knowledge you seek:
 
 [Valheim Mods Installation on Steam Deck](https://www.youtube.com/watch?v=bC0zKS7HecI)
