@@ -19,8 +19,9 @@ Get ready to embark on a new epic saga - the Saga of Modding!
 
 Your mission, should you choose to accept it, involves a daring heist of two mod files from our secret GitHub stash.
 
-1. `ValheimPlus WindowsClient-2323-0-9-9-16-1686594610.zip`
-2. `FarmGrid 0.5.0-449-0-5-0-1686742714.rar`
+1. `ValheimPlus WindowsClient-2323-0-9-9-16-1686594610.zip`(for Windows)
+   `ValheimPlus UnixClient-2323-0-9-9-16-1686594500.zip`(for Unix/Steam deck)
+3. `FarmGrid 0.5.0-449-0-5-0-1686742714.rar`
 
 Gather your courage (and your Wi-Fi connection) and [click here](https://github.com/sultatog/valheim_mods) to download the files.
 
